@@ -37,7 +37,7 @@
   display: grid;
 }
 
-.gap {
+.gap-1 {
   gap: 1rem;
 }
 
