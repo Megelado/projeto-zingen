@@ -41,6 +41,14 @@
   gap: 1rem;
 }
 
+.gap-1\.5 {
+  gap: 1.5rem;
+}
+
+.items-center {
+  align-items: center;
+}
+
 @media (width >= 80em) {
   .container {
     --max-width: 80rem;
